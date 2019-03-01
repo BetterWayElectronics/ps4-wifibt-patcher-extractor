@@ -27,4 +27,4 @@ Version History:
 1.3.3 (1/3/19) - Combined Patcher & Extractor, Added Additional Patch & Added Version Checker.
 1.3 (22/12/18) - Converted to 32bit (Hello 3absiso!), No Other Changes (Because this program is GREAT)
 1.2 (27/11/18) - Fixed Entropy + Added Better MD5 Validation + Added Better Header Validation
-1.1 (25/11/18) - Added Entropy 
+1.1 (25/11/18) - Added Entropy  
