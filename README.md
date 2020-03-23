@@ -1,4 +1,6 @@
 
+# BwE PS4 NOR WiFi/BT Patcher & Extractor
+
 Hello!
 
 This program, a micro version of my PS4 NOR Validator, is designed solely to validate and repair the WiFi/BT module of your PS4.
