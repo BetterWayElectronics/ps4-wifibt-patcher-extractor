@@ -20,9 +20,6 @@ I recommend you stick with the correct Torus version, which will be displayed on
 
 If you hate risk but still want to patch, simply ask around for your matching patch file. Just quote the file size.
 
-If you have found a patch that is not on my list, let me know at bwe@betterwayelectronics.com.au and send me a link to it.
-Feel free to use my EXTRACTOR to verify its validity and ensure proper extracting!
-
 I will add any new patches to my program in future revisions.
 
 #### Notes: ####
